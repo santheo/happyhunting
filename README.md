@@ -3,7 +3,7 @@ A place for puzzle solvers to coordinate during a hunt
 
 ![Palindrome logo](images/palindromelogo.png)
 
-The current hunt is the [2017 MIT Mystery Hunt](/mysteryhunt)
+The current hunt is the [2017 MIT Mystery Hunt](/mysteryhunt/2017)
 
 ## Where's what?
 
